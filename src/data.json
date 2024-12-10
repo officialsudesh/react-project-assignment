@@ -1,0 +1,146 @@
+{
+    "serviceTypes": [
+      {
+        "name": "Battery Disposal",
+        "volumeOfWaste": 191.44,
+        "toxicSubstances": 31.31,
+        "energyConserved": 397.6
+      },
+      {
+        "name": "Desktop Recycling",
+        "volumeOfWaste": 197.74,
+        "toxicSubstances": 37.05,
+        "energyConserved": 172.01
+      },
+      {
+        "name": "Laptop Recycling",
+        "volumeOfWaste": 311.89,
+        "toxicSubstances": 35.67,
+        "energyConserved": 520.2
+      },
+      {
+        "name": "Miscellaneous",
+        "volumeOfWaste": 244.65,
+        "toxicSubstances": 42.85,
+        "energyConserved": 635.82
+      },
+      {
+        "name": "Mobile Phone Recycling",
+        "volumeOfWaste": 244.61,
+        "toxicSubstances": 39.85,
+        "energyConserved": 326.36
+      },
+      {
+        "name": "Printer Recycling",
+        "volumeOfWaste": 272.61,
+        "toxicSubstances": 28.13,
+        "energyConserved": 1008.59
+      },
+      {
+        "name": "TV Recycling",
+        "volumeOfWaste": 248.12,
+        "toxicSubstances": 26.05,
+        "energyConserved": 167.99
+      }
+    ],
+    "eWasteJobs": {
+      "numberFulfilled": 100,
+      "averageDisposalFee": 27.0583
+    },
+    "carbonEmissions": [
+      {
+        "week": 1,
+        "greenHouseGasEmissions": 1103.78,
+        "carbonEmissionsReduced": 807.16
+      },
+      {
+        "week": 2,
+        "greenHouseGasEmissions": 809.25,
+        "carbonEmissionsReduced": 789.18
+      },
+      {
+        "week": 3,
+        "greenHouseGasEmissions": 681.13,
+        "carbonEmissionsReduced": 687.13
+      },
+      {
+        "week": 4,
+        "greenHouseGasEmissions": 1225.98,
+        "carbonEmissionsReduced": 996.27
+      },
+      {
+        "week": 5,
+        "greenHouseGasEmissions": 460.4,
+        "carbonEmissionsReduced": 327.5
+      }
+    ],
+    "jobCompletionTrend": [
+      {
+        "week": 1,
+        "jobsCompleted": 20
+      },
+      {
+        "week": 2,
+        "jobsCompleted": 20
+      },
+      {
+        "week": 3,
+        "jobsCompleted": 22
+      },
+      {
+        "week": 4,
+        "jobsCompleted": 28
+      },
+      {
+        "week": 5,
+        "jobsCompleted": 10
+      }
+    ],
+    "wasteDistribution": [
+      {
+        "category": "Large",
+        "percentage": 35.93
+      },
+      {
+        "category": "Medium",
+        "percentage": 41.71
+      },
+      {
+        "category": "Small",
+        "percentage": 21
+      }
+    ],
+    "weeklyWasteVolume": [
+      {
+        "week": 1,
+        "large": 107.97,
+        "medium": 218.21,
+        "small": 24.72
+      },
+      {
+        "week": 2,
+        "large": 165.38,
+        "medium": 183.84,
+        "small": 40.84
+      },
+      {
+        "week": 3,
+        "large": 57.67,
+        "medium": 270.65,
+        "small": 43.09
+      },
+      {
+        "week": 4,
+        "large": 85.39,
+        "medium": 340.89,
+        "small": 43.02
+      },
+      {
+        "week": 5,
+        "large": 75.69,
+        "medium": 170.94,
+        "small": 24.72
+      }
+    ]
+}
+  
