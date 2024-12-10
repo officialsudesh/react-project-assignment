@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Setup Instructions
+
+Follow the steps below to set up the project on your local machine.
+
+### 1. Clone the Repository
+
+Clone this repository to your local machine using Git:
+
+```bash
+git clone https://github.com/yourusername/sustainability-dashboard.git
+
+
